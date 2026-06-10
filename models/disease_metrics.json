@@ -1,0 +1,10 @@
+{
+  "val_accuracy": 0.584,
+  "classes": [
+    "blast",
+    "brown_spot",
+    "healthy",
+    "leaf_blight",
+    "nutrient_deficiency"
+  ]
+}

@@ -1,0 +1,26 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ML Models
+models/*.pkl
+models/*.keras
+
+# Dataset
+datasets/tn_agriculture_data.csv
+
+# Uploads
+static/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Training images
+datasets/disease_images/
